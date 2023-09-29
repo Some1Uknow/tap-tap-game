@@ -4,7 +4,7 @@ Simon is a classic memory game where you must repeat a sequence of colors and so
 
 ## Demo
 
-You can play the game online at 
+You can play the game online at https://some1uknow.github.io/tap-tap-game/
 
 ## Features
 
